@@ -22,7 +22,7 @@ have to work through all the pre-processing steps first.
 
 What you should deliver to the statistician
 ====================
-
+    
 For maximum speed in the analysis this is the information you should pass to a statistician:
 
 1. The raw data.
